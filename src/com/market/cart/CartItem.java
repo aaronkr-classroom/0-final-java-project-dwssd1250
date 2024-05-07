@@ -1,6 +1,6 @@
 package com.market.cart;
 
-import com.market.bookitem.book;
+import com.market.bookitem.Book;
 
 public class CartItem {
 	
